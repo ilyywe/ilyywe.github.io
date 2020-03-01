@@ -5,9 +5,9 @@
   <subtitle>No cross， no crown.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://makgrimace.github.io/"/>
   <updated>2020-02-29T12:32:52.983Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://makgrimace.github.io/</id>
   
   <author>
     <name>WeiChao Zhang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/29/hello-world/"/>
-    <id>http://yoursite.com/2020/02/29/hello-world/</id>
+    <link href="http://makgrimace.github.io/2020/02/29/hello-world/"/>
+    <id>http://makgrimace.github.io/2020/02/29/hello-world/</id>
     <published>2020-02-29T15:54:49.830Z</published>
     <updated>2020-02-29T12:32:52.983Z</updated>
     
