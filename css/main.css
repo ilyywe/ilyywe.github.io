@@ -2011,7 +2011,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7fabcf;
+  background: #b171ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3238,9 +3238,6 @@ header.post-header {
   border-radius: 12px;
   -webkit-box-shadow: 0 0 5px #fa8072;
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-body {
-  background: url("/images/background.jpg");
 }
 body::-webkit-scrollbar {
   display: none;
