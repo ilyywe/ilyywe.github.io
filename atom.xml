@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://makgrimace.github.io/"/>
-  <updated>2020-03-05T01:24:30.498Z</updated>
+  <updated>2020-03-05T01:46:21.195Z</updated>
   <id>http://makgrimace.github.io/</id>
   
   <author>
@@ -21,25 +21,21 @@
     <link href="http://makgrimace.github.io/2020/03/05/Today02/"/>
     <id>http://makgrimace.github.io/2020/03/05/Today02/</id>
     <published>2020-03-05T00:57:51.000Z</published>
-    <updated>2020-03-05T01:24:30.498Z</updated>
+    <updated>2020-03-05T01:46:21.195Z</updated>
     
-    <content type="html"><![CDATA[<p>Today is better!</p>]]></content>
+    <content type="html"><![CDATA[<p>Today is better!</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Today is better!&lt;/p&gt;
-
-      
+      &lt;p&gt;Today is better!&lt;/p&gt;
     
     </summary>
     
     
-      <category term="share" scheme="http://makgrimace.github.io/categories/share/"/>
+      <category term="Share" scheme="http://makgrimace.github.io/categories/Share/"/>
     
     
-      <category term="share" scheme="http://makgrimace.github.io/tags/share/"/>
+      <category term="Share" scheme="http://makgrimace.github.io/tags/Share/"/>
     
   </entry>
   
@@ -48,25 +44,21 @@
     <link href="http://makgrimace.github.io/2020/03/05/Today01%20/"/>
     <id>http://makgrimace.github.io/2020/03/05/Today01%20/</id>
     <published>2020-03-05T00:45:50.000Z</published>
-    <updated>2020-03-05T01:24:20.659Z</updated>
+    <updated>2020-03-05T01:46:20.042Z</updated>
     
-    <content type="html"><![CDATA[<p>Today is good!</p>]]></content>
+    <content type="html"><![CDATA[<p>Today is good!</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Today is good!&lt;/p&gt;
-
-      
+      &lt;p&gt;Today is good!&lt;/p&gt;
     
     </summary>
     
     
-      <category term="share" scheme="http://makgrimace.github.io/categories/share/"/>
+      <category term="Share" scheme="http://makgrimace.github.io/categories/Share/"/>
     
     
-      <category term="me" scheme="http://makgrimace.github.io/tags/me/"/>
+      <category term="Me" scheme="http://makgrimace.github.io/tags/Me/"/>
     
   </entry>
   

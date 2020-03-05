@@ -4,24 +4,24 @@
     <title>Today02</title>
     <url>/2020/03/05/Today02/</url>
     <content><![CDATA[<p>Today is better!</p>
-]]></content>
+<a id="more"></a>]]></content>
       <categories>
-        <category>share</category>
+        <category>Share</category>
       </categories>
       <tags>
-        <tag>share</tag>
+        <tag>Share</tag>
       </tags>
   </entry>
   <entry>
     <title>Today01</title>
     <url>/2020/03/05/Today01%20/</url>
     <content><![CDATA[<p>Today is good!</p>
-]]></content>
+<a id="more"></a>]]></content>
       <categories>
-        <category>share</category>
+        <category>Share</category>
       </categories>
       <tags>
-        <tag>me</tag>
+        <tag>Me</tag>
       </tags>
   </entry>
   <entry>
