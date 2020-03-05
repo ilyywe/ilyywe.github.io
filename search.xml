@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>today</title>
+    <url>/2020/03/05/today/</url>
+    <content><![CDATA[<p>Today is better!</p>
+]]></content>
+      <categories>
+        <category>share_1</category>
+      </categories>
+      <tags>
+        <tag>share_1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>share</title>
+    <url>/2020/03/05/share/</url>
+    <content><![CDATA[<p>Today is good!</p>
+]]></content>
+      <categories>
+        <category>me</category>
+      </categories>
+      <tags>
+        <tag>me</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/03/04/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>

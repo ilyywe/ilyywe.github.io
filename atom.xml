@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://makgrimace.github.io/"/>
-  <updated>2020-02-29T12:32:52.983Z</updated>
+  <updated>2020-03-05T00:58:45.148Z</updated>
   <id>http://makgrimace.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>today</title>
+    <link href="http://makgrimace.github.io/2020/03/05/today/"/>
+    <id>http://makgrimace.github.io/2020/03/05/today/</id>
+    <published>2020-03-05T00:57:51.000Z</published>
+    <updated>2020-03-05T00:58:45.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>Today is better!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Today is better!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="share_1" scheme="http://makgrimace.github.io/categories/share-1/"/>
+    
+    
+      <category term="share_1" scheme="http://makgrimace.github.io/tags/share-1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>share</title>
+    <link href="http://makgrimace.github.io/2020/03/05/share/"/>
+    <id>http://makgrimace.github.io/2020/03/05/share/</id>
+    <published>2020-03-05T00:45:50.000Z</published>
+    <updated>2020-03-05T00:56:58.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>Today is good!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Today is good!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="me" scheme="http://makgrimace.github.io/categories/me/"/>
+    
+    
+      <category term="me" scheme="http://makgrimace.github.io/tags/me/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
