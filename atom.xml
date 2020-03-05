@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://makgrimace.github.io/"/>
-  <updated>2020-03-05T00:58:45.148Z</updated>
+  <updated>2020-03-05T01:24:30.498Z</updated>
   <id>http://makgrimace.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>today</title>
-    <link href="http://makgrimace.github.io/2020/03/05/today/"/>
-    <id>http://makgrimace.github.io/2020/03/05/today/</id>
+    <title>Today02</title>
+    <link href="http://makgrimace.github.io/2020/03/05/Today02/"/>
+    <id>http://makgrimace.github.io/2020/03/05/Today02/</id>
     <published>2020-03-05T00:57:51.000Z</published>
-    <updated>2020-03-05T00:58:45.148Z</updated>
+    <updated>2020-03-05T01:24:30.498Z</updated>
     
     <content type="html"><![CDATA[<p>Today is better!</p>]]></content>
     
@@ -36,19 +36,19 @@
     </summary>
     
     
-      <category term="share_1" scheme="http://makgrimace.github.io/categories/share-1/"/>
+      <category term="share" scheme="http://makgrimace.github.io/categories/share/"/>
     
     
-      <category term="share_1" scheme="http://makgrimace.github.io/tags/share-1/"/>
+      <category term="share" scheme="http://makgrimace.github.io/tags/share/"/>
     
   </entry>
   
   <entry>
-    <title>share</title>
-    <link href="http://makgrimace.github.io/2020/03/05/share/"/>
-    <id>http://makgrimace.github.io/2020/03/05/share/</id>
+    <title>Today01</title>
+    <link href="http://makgrimace.github.io/2020/03/05/Today01%20/"/>
+    <id>http://makgrimace.github.io/2020/03/05/Today01%20/</id>
     <published>2020-03-05T00:45:50.000Z</published>
-    <updated>2020-03-05T00:56:58.140Z</updated>
+    <updated>2020-03-05T01:24:20.659Z</updated>
     
     <content type="html"><![CDATA[<p>Today is good!</p>]]></content>
     
@@ -63,7 +63,7 @@
     </summary>
     
     
-      <category term="me" scheme="http://makgrimace.github.io/categories/me/"/>
+      <category term="share" scheme="http://makgrimace.github.io/categories/share/"/>
     
     
       <category term="me" scheme="http://makgrimace.github.io/tags/me/"/>
@@ -72,8 +72,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://makgrimace.github.io/2020/03/04/hello-world/"/>
-    <id>http://makgrimace.github.io/2020/03/04/hello-world/</id>
+    <link href="http://makgrimace.github.io/2020/03/04/hello%20world/"/>
+    <id>http://makgrimace.github.io/2020/03/04/hello%20world/</id>
     <published>2020-03-04T10:00:27.074Z</published>
     <updated>2020-02-29T12:32:52.983Z</updated>
     
