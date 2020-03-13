@@ -2070,13 +2070,30 @@ show_date_time();
 
 
 
+  <canvas id="evanyou"></canvas>
+  <style>
+    #evanyou {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: -1;
+    }
+  </style>
+  <script src="/js/evan-you.js"></script>
+
+
+
+
+
+
   <script src="/js/activate-power-mode.min.js"></script>
   <script>
-    POWERMODE.colorful = ;
+    POWERMODE.colorful = true;
     POWERMODE.shake = false;
     document.body.addEventListener('input', POWERMODE);
   </script>
-
 
   <div id="tp-weather-widget"></div>
   <script>
@@ -2099,4 +2116,7 @@ show_date_time();
 
 <!-- 页面点击小红心 -->
 <script type="text/javascript" src="/js/src/clicklove.js"></script>
+
+<!-- 雪花特效2 -->
+<script type="text/javascript" src="/js/snow1.js"></script>
 
