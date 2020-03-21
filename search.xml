@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Today03</title>
+    <url>/2020/03/21/Today03/</url>
+    <content><![CDATA[<pre><code><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="comment">/* 我的第一个 C 程序 */</span></span><br><span class="line">    <span class="built_in">printf</span>(“Hello, World! \n”);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></code></pre><a id="more"></a>]]></content>
+  </entry>
+  <entry>
     <title>Today02</title>
     <url>/2020/03/05/Today02/</url>
     <content><![CDATA[<p>Today is better!</p>
