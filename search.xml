@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title>Today03</title>
-    <url>/Today03/</url>
+    <url>/posts/Today03/</url>
     <content><![CDATA[<pre><code><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="comment">/* 我的第一个 C 程序 */</span></span><br><span class="line">    <span class="built_in">printf</span>(“Hello, World! \n”);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></code></pre><a id="more"></a>]]></content>
   </entry>
   <entry>
     <title>Today02</title>
-    <url>/Today02/</url>
+    <url>/posts/Today02/</url>
     <content><![CDATA[<p>Today is better!</p>
 <a id="more"></a>]]></content>
       <categories>
@@ -19,7 +19,7 @@
   </entry>
   <entry>
     <title>Today01</title>
-    <url>/Today01/</url>
+    <url>/posts/Today01/</url>
     <content><![CDATA[<p>Today is good!</p>
 <a id="more"></a>]]></content>
       <categories>
