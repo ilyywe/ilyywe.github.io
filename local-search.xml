@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>资源分享</title>
+    <link href="/posts/SharingResources/"/>
+    <url>/posts/SharingResources/</url>
+    
+    <content type="html"><![CDATA[<p>这篇文章整合网络中大量优质资源【保持更新中!】</p><a id="more"></a>]]></content>
+    
+    
+    <categories>
+      
+      <category>资源分享</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>资源分享</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Today03</title>
+    <link href="/posts/Today03/"/>
+    <url>/posts/Today03/</url>
+    
+    <content type="html"><![CDATA[<p>测试文章03</p><a id="more"></a><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;    <span class="hljs-comment">/* 我的第一个 C 程序 */</span>    <span class="hljs-built_in">printf</span>(“Hello, World! \n”);    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;&#125;</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Today02</title>
+    <link href="/posts/Today02/"/>
+    <url>/posts/Today02/</url>
+    
+    <content type="html"><![CDATA[<p>测试文章02</p><a id="more"></a><p>Today is better!</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Today01</title>
+    <link href="/posts/Today01/"/>
+    <url>/posts/Today01/</url>
+    
+    <content type="html"><![CDATA[<p>测试文章01</p><a id="more"></a><p>Today is good!</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
