@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://grimace.top/"/>
-  <updated>2020-06-03T06:04:59.064Z</updated>
+  <updated>2020-06-03T06:13:19.010Z</updated>
   <id>https://grimace.top/</id>
   
   <author>
@@ -21,27 +21,13 @@
     <link href="https://grimace.top/posts/OnePlus5Root%E7%AC%94%E8%AE%B0/"/>
     <id>https://grimace.top/posts/OnePlus5Root%E7%AC%94%E8%AE%B0/</id>
     <published>2020-06-03T06:03:50.000Z</published>
-    <updated>2020-06-03T06:04:59.064Z</updated>
+    <updated>2020-06-03T06:13:19.010Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><ul><li>重启至 fastboot<ul><li>adb  reboot fastboot</li></ul></li><li>解锁BL<ul><li>开发者模式下打开oem开关</li><li>fastboot  oem  unlock</li></ul></li><li>上锁BL<ul><li>fastboot  oem  lock</li><li>开发者模式下关闭oem开关</li></ul></li><li>输入第三方Rec[解码后的TWRP] <ul><li>fastboot  flash  recovery   twrp-3.1.1-0-cheeseburger.img</li><li>fastboot  boot  twrp-3.1.1-0-cheeseburger.img</li><li>进入recovery后会提示你输入密码，输入即可</li><li><strong>[注意]</strong>在刷入img后不进入recovery就启动实际上是等于没刷。他的页面说了一段话，解释了为什么要使用codeworkx的img，为什么刷入后要立即进入recovery而不是重启</li></ul></li><li>使用TWRP卡刷Magisk最新版</li><li>使用TWRP卡刷taichi-magisk最新版</li><li>系统界面安装太极APK</li></ul><p><strong>[注]</strong>   </p>]]></content>
+    <content type="html"><![CDATA[<p>OnePlus5手机刷机笔记！</p><a id="more"></a><ul><li>重启至 fastboot<ul><li>adb  reboot fastboot</li></ul></li><li>解锁BL<ul><li>开发者模式下打开oem开关</li><li>fastboot  oem  unlock</li></ul></li><li>上锁BL<ul><li>fastboot  oem  lock</li><li>开发者模式下关闭oem开关</li></ul></li><li>输入第三方Rec[解码后的TWRP] <ul><li>fastboot  flash  recovery   twrp-3.1.1-0-cheeseburger.img</li><li>fastboot  boot  twrp-3.1.1-0-cheeseburger.img</li><li>进入recovery后会提示你输入密码，输入即可</li><li><strong>[注意]</strong>在刷入img后不进入recovery就启动实际上是等于没刷。他的页面说了一段话，解释了为什么要使用codeworkx的img，为什么刷入后要立即进入recovery而不是重启</li></ul></li><li>使用TWRP卡刷Magisk最新版</li><li>使用TWRP卡刷taichi-magisk最新版</li><li>系统界面安装太极APK</li></ul><p><strong>[注]</strong>   </p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-
-
-
-&lt;ul&gt;
-&lt;li&gt;重启至 fastboot&lt;ul&gt;
-&lt;li&gt;adb  reboot fastboot&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;解锁BL&lt;ul&gt;
-&lt;li&gt;开发者模式下打开oem开关&lt;/li&gt;
-&lt;li&gt;fastboot  o
-      
+      &lt;p&gt;OnePlus5手机刷机笔记！&lt;/p&gt;
     
     </summary>
     
