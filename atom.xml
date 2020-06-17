@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://grimace.top/"/>
-  <updated>2020-06-03T06:26:29.559Z</updated>
+  <updated>2020-06-17T11:44:21.624Z</updated>
   <id>https://grimace.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一加5安卓9.0回退8.1教程</title>
+    <link href="https://grimace.top/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939-0%E5%9B%9E%E9%80%808-1%E6%95%99%E7%A8%8B/"/>
+    <id>https://grimace.top/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939-0%E5%9B%9E%E9%80%808-1%E6%95%99%E7%A8%8B/</id>
+    <published>2020-06-17T11:42:16.000Z</published>
+    <updated>2020-06-17T11:44:21.624Z</updated>
+    
+    <content type="html"><![CDATA[<p>郑重声明：<br>1、本帖教程仅适用于官方rec（已刷入第三方rec的请不要使用本教程刷机方式）。<br>2、因不遵守本帖教程步骤，而导致回退失败的，千泷概不负责。<br>3、刷机有升级失败后导致不能开机或变砖的风险，本人概不负责，刷机有风险，谨慎操作！<br>4、使用本帖教程和安卓O全量包进行降级操作的，无论成功与否，千泷不会为此承担任何责任。<br>5、使用本帖教程和资源刷机，即视为刷机者同意本声明内的所有条款，介意者请勿操作！</p><a id="more"></a><p><strong>教程内容【已开放阅读】（建议收藏备用哦）：</strong><br>从 OnePlus 5 Android P刷回OnePlus 5 安卓O版本（即安卓8.1版本）的教程：<br>1、<strong>注意：此升级方式会清空手机内所有内容，请务必先备份！</strong><br>2、下载OnePlus 5 安卓O版本（安卓8.1）全量包，拷贝至手机根目录<br>3、关机 -&gt; 同时按音量减键与电源键5秒左右 -&gt; 进入recovery模式（如有设置密码需解锁） -&gt; 选择语言 -&gt;清除数据和缓存-&gt;清除系统数据和缓存 -&gt; 确定 -&gt; 完成 -&gt; 安装本地升级文件 -&gt; 点击对应的安装包 -&gt;马上升级 -&gt; 系统升级完成<br>4、选择重启手机（或按电源键重新启动）<br>5、成功刷回5安卓O（即安卓8.1）版本</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;郑重声明：&lt;br&gt;1、本帖教程仅适用于官方rec（已刷入第三方rec的请不要使用本教程刷机方式）。&lt;br&gt;2、因不遵守本帖教程步骤，而导致回退失败的，千泷概不负责。&lt;br&gt;3、刷机有升级失败后导致不能开机或变砖的风险，本人概不负责，刷机有风险，谨慎操作！&lt;br&gt;4、使用本帖教程和安卓O全量包进行降级操作的，无论成功与否，千泷不会为此承担任何责任。&lt;br&gt;5、使用本帖教程和资源刷机，即视为刷机者同意本声明内的所有条款，介意者请勿操作！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="刷机" scheme="https://grimace.top/categories/%E5%88%B7%E6%9C%BA/"/>
+    
+    
+      <category term="一加五" scheme="https://grimace.top/tags/%E4%B8%80%E5%8A%A0%E4%BA%94/"/>
+    
+  </entry>
   
   <entry>
     <title>OnePlus5Root笔记</title>
