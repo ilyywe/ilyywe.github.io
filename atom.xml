@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ilyywe.github.io/"/>
-  <updated>2020-06-25T14:54:46.499Z</updated>
+  <updated>2020-06-30T15:22:22.870Z</updated>
   <id>https://ilyywe.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一加ADB禁用系统更新</title>
+    <link href="https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A0ADB%E7%A6%81%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/"/>
+    <id>https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A0ADB%E7%A6%81%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/</id>
+    <published>2020-06-30T15:19:38.000Z</published>
+    <updated>2020-06-30T15:22:22.870Z</updated>
+    
+    <content type="html"><![CDATA[<p>无需ROOT，实现系统级禁用系统更新</p><a id="more"></a><ol><li>命令关闭更新，无需ROOT，命令：   adb shell pm disable-user com.oneplus.opbackup</li><li>重新启用系统更新，命令： adb shell pm enable com.oneplus.opbackup</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;无需ROOT，实现系统级禁用系统更新&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="OnePlus5" scheme="https://ilyywe.github.io/categories/OnePlus5/"/>
+    
+    
+      <category term="禁用更新" scheme="https://ilyywe.github.io/tags/%E7%A6%81%E7%94%A8%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>修改SS配置文件</title>
@@ -41,8 +64,8 @@
   
   <entry>
     <title>一加5安卓9.0回退8.1教程</title>
-    <link href="https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939-0%E5%9B%9E%E9%80%808-1%E6%95%99%E7%A8%8B/"/>
-    <id>https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939-0%E5%9B%9E%E9%80%808-1%E6%95%99%E7%A8%8B/</id>
+    <link href="https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939.0%E5%9B%9E%E9%80%808.1%E6%95%99%E7%A8%8B/"/>
+    <id>https://ilyywe.github.io/posts/%E4%B8%80%E5%8A%A05%E5%AE%89%E5%8D%939.0%E5%9B%9E%E9%80%808.1%E6%95%99%E7%A8%8B/</id>
     <published>2020-06-17T11:42:16.000Z</published>
     <updated>2020-06-25T11:11:55.569Z</updated>
     
