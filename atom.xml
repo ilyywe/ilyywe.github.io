@@ -40,11 +40,11 @@
   </entry>
   
   <entry>
-    <title>修改SS配置文件</title>
-    <link href="https://ilyywe.github.io/posts/SS%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/"/>
-    <id>https://ilyywe.github.io/posts/SS%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/</id>
+    <title>修改Shadowsocks配置文件</title>
+    <link href="https://ilyywe.github.io/posts/Shadowsocks%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/"/>
+    <id>https://ilyywe.github.io/posts/Shadowsocks%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/</id>
     <published>2020-06-25T14:51:23.000Z</published>
-    <updated>2020-07-12T03:41:02.939Z</updated>
+    <updated>2020-07-12T04:56:00.311Z</updated>
     
     <content type="html"><![CDATA[<p>SS端口修改方法</p><a id="more"></a><p>1、vim   /etc/shadowsocks.json<br>2、进入编辑模式修改后保存<br>3、重启服务器</p><p> 就是下面第二行中的端口：<br>{<br>“server”:”my_server_ip”,<br>“server_port”:1024,<br>“local_port”:1989,<br>“password”:”lolicon”,<br>“timeout”:600,<br>“method”:”aes-256-cfb”<br>}</p>]]></content>
     
