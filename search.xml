@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Test4</title>
+    <url>/posts/Test4/</url>
+    <content><![CDATA[<a id="more"></a><p>测试文章03</p><!--more--><div class="hljs"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span>
+
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span>
+</span>&#123;
+    <span class="hljs-comment">/* 我的第一个 C 程序 */</span>
+    <span class="hljs-built_in">printf</span>(“Hello, World! \n”);
+
+    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;
+&#125;</code></pre></div>]]></content>
+  </entry>
+  <entry>
     <title>一加ADB禁用系统更新</title>
     <url>/posts/%E4%B8%80%E5%8A%A0ADB%E7%A6%81%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/</url>
     <content><![CDATA[<p>无需ROOT，实现系统级禁用系统更新</p><a id="more"></a><ol><li>命令关闭更新，无需ROOT，命令： adb shell pm disable-user com.oneplus.opbackup</li><li>重新启用系统更新，命令： adb shell pm enable com.oneplus.opbackup</li></ol>]]></content>
