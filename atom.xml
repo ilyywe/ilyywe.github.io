@@ -23,7 +23,7 @@
     <published>2020-06-30T15:19:38.000Z</published>
     <updated>2020-06-30T15:22:22.870Z</updated>
     
-    <content type="html"><![CDATA[<p>无需ROOT，实现系统级禁用系统更新</p><a id="more"></a><ol><li>命令关闭更新，无需ROOT，命令：   adb shell pm disable-user com.oneplus.opbackup</li><li>重新启用系统更新，命令： adb shell pm enable com.oneplus.opbackup</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>无需ROOT，实现系统级禁用系统更新</p><a id="more"></a><ol><li>命令关闭更新，无需ROOT，命令： adb shell pm disable-user com.oneplus.opbackup</li><li>重新启用系统更新，命令： adb shell pm enable com.oneplus.opbackup</li></ol>]]></content>
     
     <summary type="html">
     
@@ -46,7 +46,7 @@
     <published>2020-06-25T14:51:23.000Z</published>
     <updated>2020-07-12T04:56:00.311Z</updated>
     
-    <content type="html"><![CDATA[<p>SS端口修改方法</p><a id="more"></a><p>1、vim   /etc/shadowsocks.json<br>2、进入编辑模式修改后保存<br>3、重启服务器</p><p> 就是下面第二行中的端口：<br>{<br>“server”:”my_server_ip”,<br>“server_port”:1024,<br>“local_port”:1989,<br>“password”:”lolicon”,<br>“timeout”:600,<br>“method”:”aes-256-cfb”<br>}</p>]]></content>
+    <content type="html"><![CDATA[<p>SS端口修改方法</p><a id="more"></a><p>1、vim /etc/shadowsocks.json<br>2、进入编辑模式修改后保存<br>3、重启服务器</p><p>就是下面第二行中的端口：<br>{<br>“server”:”my_server_ip”,<br>“server_port”:1024,<br>“local_port”:1989,<br>“password”:”lolicon”,<br>“timeout”:600,<br>“method”:”aes-256-cfb”<br>}</p>]]></content>
     
     <summary type="html">
     
@@ -92,7 +92,7 @@
     <published>2020-06-03T06:03:50.000Z</published>
     <updated>2020-06-03T06:26:29.559Z</updated>
     
-    <content type="html"><![CDATA[<p>OnePlus5手机刷机笔记！</p><a id="more"></a><ul><li>重启至 fastboot<ul><li>adb  reboot fastboot</li></ul></li><li>解锁BL<ul><li>开发者模式下打开oem开关</li><li>fastboot  oem  unlock</li></ul></li><li>上锁BL<ul><li>fastboot  oem  lock</li><li>开发者模式下关闭oem开关</li></ul></li><li>输入第三方Rec[解码后的TWRP] <ul><li>fastboot  flash  recovery   twrp-3.1.1-0-cheeseburger.img</li><li>fastboot  boot  twrp-3.1.1-0-cheeseburger.img</li><li>进入recovery后会提示你输入密码，输入即可</li><li><strong>[注意]</strong>在刷入img后不进入recovery就启动实际上是等于没刷。他的页面说了一段话，解释了为什么要使用codeworkx的img，为什么刷入后要立即进入recovery而不是重启</li></ul></li><li>使用TWRP卡刷Magisk最新版</li><li>使用TWRP卡刷taichi-magisk最新版</li><li>系统界面安装太极APK</li></ul><p><strong>[注]</strong>   </p>]]></content>
+    <content type="html"><![CDATA[<p>OnePlus5手机刷机笔记！</p><a id="more"></a><ul><li>重启至 fastboot<ul><li>adb reboot fastboot</li></ul></li><li>解锁BL<ul><li>开发者模式下打开oem开关</li><li>fastboot oem unlock</li></ul></li><li>上锁BL<ul><li>fastboot oem lock</li><li>开发者模式下关闭oem开关</li></ul></li><li>输入第三方Rec[解码后的TWRP]<ul><li>fastboot flash recovery twrp-3.1.1-0-cheeseburger.img</li><li>fastboot boot twrp-3.1.1-0-cheeseburger.img</li><li>进入recovery后会提示你输入密码，输入即可</li><li><strong>[注意]</strong>在刷入img后不进入recovery就启动实际上是等于没刷。他的页面说了一段话，解释了为什么要使用codeworkx的img，为什么刷入后要立即进入recovery而不是重启</li></ul></li><li>使用TWRP卡刷Magisk最新版</li><li>使用TWRP卡刷taichi-magisk最新版</li><li>系统界面安装太极APK</li></ul><p><strong>[注]</strong></p>]]></content>
     
     <summary type="html">
     
