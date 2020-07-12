@@ -110,7 +110,7 @@
     <content><![CDATA[<p>测试文章03</p>
 <a id="more"></a>
 
-<pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span>
+<div class="hljs"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span>
 
 <span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span>
 </span>&#123;
@@ -118,7 +118,7 @@
     <span class="hljs-built_in">printf</span>(“Hello, World! \n”);
 
     <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;
-&#125;</code></pre>]]></content>
+&#125;</code></pre></div>]]></content>
       <categories>
         <category>Test</category>
       </categories>
