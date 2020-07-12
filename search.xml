@@ -28,10 +28,10 @@
 <p> 就是下面第二行中的端口：<br>{<br>“server”:”my_server_ip”,<br>“server_port”:1024,<br>“local_port”:1989,<br>“password”:”lolicon”,<br>“timeout”:600,<br>“method”:”aes-256-cfb”<br>}</p>
 ]]></content>
       <categories>
-        <category>SS</category>
+        <category>Shadowsocks</category>
       </categories>
       <tags>
-        <tag>SS</tag>
+        <tag>Shadowsocks</tag>
       </tags>
   </entry>
   <entry>
