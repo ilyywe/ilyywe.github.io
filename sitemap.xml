@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ilyywe.github.io/about/index.html</loc>
+    
+    <lastmod>2020-07-12T06:46:04.418Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ilyywe.github.io/posts/Shadowsocks%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/</loc>
     
     <lastmod>2020-07-12T04:56:00.311Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://ilyywe.github.io/links/index.html</loc>
     
     <lastmod>2020-05-01T08:30:23.886Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ilyywe.github.io/about/index.html</loc>
-    
-    <lastmod>2020-05-01T07:45:07.863Z</lastmod>
     
   </url>
   
