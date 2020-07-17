@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Flyme系统级禁用更新命令</title>
+    <link href="/posts/Flyme%E7%B3%BB%E7%BB%9F%E7%BA%A7%E7%A6%81%E7%94%A8%E6%9B%B4%E6%96%B0%E5%91%BD%E4%BB%A4/"/>
+    <url>/posts/Flyme%E7%B3%BB%E7%BB%9F%E7%BA%A7%E7%A6%81%E7%94%A8%E6%9B%B4%E6%96%B0%E5%91%BD%E4%BB%A4/</url>
+    
+    <content type="html"><![CDATA[<p>有时候想用初始系统养老，但是对于强迫症来说，系统更新提示真的无语，这时，我们就需要彻底禁止它！</p><a id="more"></a><p>桌面上滑搜索</p><div class="note note-success"><p>adb shell pm disable-user com.meizu.net.search</p></div><p>系统更新</p><div class="note note-success"><p>adb shell pm disable-user com.meizu.flyme.update</p></div>]]></content>
+    
+    
+    <categories>
+      
+      <category>Flyme</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>禁用更新</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>一加ADB禁用系统更新</title>
     <link href="/posts/%E4%B8%80%E5%8A%A0ADB%E7%A6%81%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/"/>
     <url>/posts/%E4%B8%80%E5%8A%A0ADB%E7%A6%81%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/</url>
